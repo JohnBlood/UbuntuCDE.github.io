@@ -1,1 +1,56 @@
+==================================================================
+https://keybase.io/jaoheah
+--------------------------------------------------------------------
 
+I hereby claim:
+
+  * I am an admin of https://ubuntucde.com
+  * I am jaoheah (https://keybase.io/jaoheah) on keybase.
+  * I have a public key ASBkZz52P3PGNH_V91hXP9BrRPWTU-AjWkMH9pgnPv9HuQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012064673e763f73c6347fd5f758573fd06b44f59353e0235a4307f698273eff47b90a",
+      "host": "keybase.io",
+      "kid": "012064673e763f73c6347fd5f758573fd06b44f59353e0235a4307f698273eff47b90a",
+      "uid": "c2316a315c6b610cda323c0246fc2f19",
+      "username": "jaoheah"
+    },
+    "merkle_root": {
+      "ctime": 1596384440,
+      "hash": "14dcb8d2d26744f52e640904e37cd318df99996f35e4fa6976d3b32674b06631c2733b5fe55f2644e411a8e66d67cf1b2e12e0d576d9268e9384df9f7f8d3169",
+      "hash_meta": "b4c2581327d7067e7337170f91197dcb089ab4e0edae11850b9d75164d8f2057",
+      "seqno": 17158142
+    },
+    "service": {
+      "entropy": "eoXTl35fuw5WLXNcHb4XmAKR",
+      "hostname": "ubuntucde.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1596384471,
+  "expire_in": 504576000,
+  "prev": "6b71689871b29b8dc9fdeded7ab1735a432581bd7c795a145344ef94559c41a3",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZGc+dj9zxjR/1fdYVz/Qa0T1k1PgI1pDB/aYJz7/R7kKp3BheWxvYWTESpcCFMQga3FomHGym43J/e3terFzWkMlgb18eVoUU0TvlFWcQaPEIATf+ZZcesUspMuMTldARR7B7NG8r6+q/dqqayxA0dLVAgHCo3NpZ8RAX+0SfEkd7md00EH6wjddSg1skUgB0Zs3KEmAU3nyBkMG720by8QNd/vchNM6dI+9SCFM8DNJLd/VpJk1Vew0B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEh3RruR65qtUlkXdpJxk1H8Gf1I/xu2KDv8d0BoqzrIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaoheah
+
+==================================================================
